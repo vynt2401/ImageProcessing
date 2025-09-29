@@ -1,0 +1,1 @@
+width: 512 x height: 512
